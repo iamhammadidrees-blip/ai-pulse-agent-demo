@@ -1,2 +1,3 @@
 # ai-pulse-agent-demo
-my first ai roject based learnigs
+
+first ai project based learning page
